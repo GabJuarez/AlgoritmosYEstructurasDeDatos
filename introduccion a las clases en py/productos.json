@@ -1,0 +1,14 @@
+{
+    "0": {
+        "code": 1,
+        "nombre": "computadora",
+        "cantidad": 2,
+        "precio": 1000.0
+    },
+    "1": {
+        "code": 2,
+        "nombre": "termo",
+        "cantidad": 200,
+        "precio": 100.0
+    }
+}
