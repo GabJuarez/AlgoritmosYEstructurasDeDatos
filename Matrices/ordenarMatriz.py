@@ -26,6 +26,8 @@ print("Matriz ordenada:")
 """se crea una sola lista con todos los elementos de todas 
 las filas de la matriz para poder ordenar facilmente"""
 
+#list comprehension sintaxis
+#newlist = [expression for item in iterable if condition == True]
 rawMatrix = [num for fila in matriz for num in fila] #usando list comprehension para tener una sola lista
 rawMatrix.sort(key = None, reverse = False)
 
