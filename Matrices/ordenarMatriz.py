@@ -2,7 +2,6 @@ from random import randint
 from tabulate import tabulate
 from collections import Counter
 
-contador = 0 #contador de comparaciones
 
 #definiendo el tamaño de la matriz
 filas = 10
